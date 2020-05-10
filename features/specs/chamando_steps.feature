@@ -1,10 +1,11 @@
 
 # chamando outra step, posso reusar um passo especifico do cenario
+@funcionalidade
 Feature: Trabalhando com chamadados de outros steps
 
    Feature Description
 
-
+@tag_cenario
 Scenario: Amasso laranjas
 
     Given eu tenho 10 laranjas no estoque

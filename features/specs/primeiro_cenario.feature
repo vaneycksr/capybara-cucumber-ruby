@@ -1,3 +1,4 @@
+@primeiro
 Feature: Fazer uma soma
 
 
